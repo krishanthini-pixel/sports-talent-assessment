@@ -8,7 +8,10 @@ Python, MediaPipe, OpenCV, NumPy, Streamlit, SQLite, Pandas
 ## Status
 Prototype in development.
 
-## How to Run
+##View the current status of our project
+https://sports-talent-assessment.streamlit.app/
+
+## How to Run the Python file
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
