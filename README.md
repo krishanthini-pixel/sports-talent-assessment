@@ -7,8 +7,7 @@ Python, MediaPipe, OpenCV, NumPy, Streamlit, SQLite, Pandas
 
 ## Status
 Prototype in development.
-
-##View the current status of our project
+View the current status of our project at : 
 https://sports-talent-assessment.streamlit.app/
 
 ## How to Run the Python file
