@@ -327,7 +327,14 @@ elif page == "Leaderboard":
             use_container_width=True,
             hide_index=True
         )
-
+        
+        st.download_button(
+            label="Download Assessment Records (CSV)",
+            data=df.to_csv(index=False).encode("utf-8"),
+            file_name="athletiq_assessments.csv",
+            mime="text/csv",
+        )
+        
         st.subheader("Repetition Comparison")
 
         chart_data = (
