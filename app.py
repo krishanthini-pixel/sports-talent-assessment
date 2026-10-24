@@ -114,7 +114,7 @@ with st.sidebar:
     )
 
     st.divider()
-    st.caption("QUANTEX'26 • Hackathon Prototype")
+    st.caption("AthletiQ v1.0 • Innovation Prototype")
     st.caption("Computer vision + accessible sports screening")
 
 
